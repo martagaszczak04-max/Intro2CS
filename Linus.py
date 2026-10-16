@@ -1,3 +1,3 @@
 print("version3")
-print("fisrt name")
-(print("last name")
+print("first name")
+print("last name")
