@@ -1,0 +1,55 @@
+    1  brew install git
+    2  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    3  $ brew install git\n\n
+    4  brew install git
+    5  git help
+    6  cd Desktop
+    7  git hekp
+    8  git help
+    9  git init
+   10  git status
+   11  git add . 
+   12  print("version1")
+   13  /usr/bin/python3
+   14  git --version
+   15  git confing -- global user.name "Marta"
+   16  git confing --global user.name "Marta Gąszczak"
+   17  git config --global user.name "Marta Gaszczak"
+   18  git config --global user.email "margas3@st.amu.edu.pl"
+   19  git config --global --list
+   20  git config --global init.defaultBranch main 
+   21  mkdir Linus.py
+   22  cd Linus.py
+   23  git init
+   24  echo 'print("version1")' > Linus.py
+   25  cat Linus.py
+   26  git add Linus.py
+   27  git comit -m "Add version 1"
+   28  git commit -m "Add version 1"
+   29  git log --oneline
+   30  echo 'print("version2")' > Linus.py
+   31  echo 'print("first name")' >> Linus.py
+   32  cat Linus.py
+   33  git add Linus.py git commit -m "Addversion 2"
+   34  git add Linus.py git commit -m "Add version 2"
+   35  cat Linus.py
+   36  git status
+   37  git log --oneline
+   38  git add linus.py
+   39  git commit -m "Add version 2"
+   40  git add Linus.py
+   41  git commit -m "Add version 2"
+   42  git log --oneline
+   43  echo 'print("version3")' > Linus.py
+   44  echo 'print("fisrt name")' >> Linus.py
+   45  echo '(print("last name")' >> Linus.py
+   46  cat Linus.py
+   47  git add Linus.py
+   48  git commit -m "Add version 3" 
+   49  git log --oneline
+   50  git log --oneline
+   51  git checkout fddaaee
+   52  cat Linus.py 
+   53  git checkout main
+   54  cat Linus.py
+   55  pwd
