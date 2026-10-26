@@ -27,7 +27,22 @@ print(boxes_to_order)
 print(leftover_slices)
 print("Present students:" , present_students)
 print("Total slices needed:" , total_slices_needed)
-print("Cost per student:" , boxes_to_order)
+print("Cost_per_student:" , boxes_to_order)
 print("Boxes to order:" , boxes_to_order)
 print("Leftover slives:" , leftover_slices)
+print("2" + "2")
+print(2 + 2)
+print(int("2") + int("2"))
+print(int(3.99))
+print(bool("False"))
+print(type(42)) # my guess: int
+print(type("42")) # my guess: str
+print(type(3.14)) # my guess: float
+print(type("3.14")) # my guess: str
+print(type(True)) # my guess: bool
+print(type("True")) # my guess: str
+print(type(0)) # my guess: int
+print(type("")) # my guess: str
+print(type("hi" * 2)) # my guess: str
+print(type(10 / 2)) # my guess float
 
