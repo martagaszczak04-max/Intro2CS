@@ -23,8 +23,16 @@ print(name)
 print(lat)
 city_list = list(city)
 city_list[1] = "Germany"
-print = tuple(city_list)
+city = tuple(city_list)
 print(city)
+# Vocabulary Clash
+mine = {"pizza", "pasta", "salad", "soup", "sushi"}
+irem = {"pizza", "banana", "pasta", "cake", "apple"}
+print(mine | irem)
+print(mine & irem)
+print(mine - irem)
+print(mine ^ irem)
+
 
 
 
