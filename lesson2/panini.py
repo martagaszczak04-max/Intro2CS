@@ -32,6 +32,18 @@ print(mine | irem)
 print(mine & irem)
 print(mine - irem)
 print(mine ^ irem)
+# My mini dictionary
+words = {"cat": "kot", "dog": "pies", "mouse": "mysz", "bird": "ptak"}
+print(words["cat"]) 
+print(len(words))
+words["tree"] = "drzewo"
+words["cat"] = "kotek"
+print(words)
+words.update({"fish": "ryba", "hourse": "koń"})
+print(words)
+print(list(words.keys()))
+print(list(words.values()))
+print(list(words.items()))
 
 
 
